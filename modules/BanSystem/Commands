@@ -1,0 +1,79 @@
+🎮 Allgemeine Befehle
+Diese Befehle dienen zur Verwaltung von DKBans auf deinem Netzwerk oder Server.
+
+/cloudbans
+/cloudbans info
+/cloudbans log <create>
+
+⛔ Bestrafungsbefehle
+Standard-Befehle für Strafen
+
+/ban <Spieler> <Template>
+/tban <Spieler> <Dauer> <Grund>
+/pban <Spieler> <Grund>
+/warn <Spieler> <Grund>
+/kick <Spieler> <Grund>
+/punishInfo <Spieler/ID>
+/banInfo <Spieler/ID>
+/unban <Spieler>
+/bans <Spieler> <Seite>
+/mutes <Spieler> <Seite>
+
+📝 Berichtsbefehle
+Für Spieler, um andere Spieler zu melden.
+
+/report <Spieler> <Grund>
+/report accept <Spieler>
+/report claim <Report-ID>
+/report list
+/report login/logout/toggle
+
+🌐 IP-Befehle
+IP-Informationen zu Spielern abfragen und IP-Adressen blockieren.
+
+/ipInfo <Spieler>
+/ipInfo <Adresse>
+/ipblock <Adresse> <Grund>
+/ipunblock <Adresse>
+
+📜 Historien-Befehle
+Spielerhistorie anzeigen und verwalten.
+
+/history <Spieler>
+/history <Spieler> <EintragID>
+/resetHistory <Spieler>
+/MyHistoryPoints
+
+👤 Spielerbefehle
+Verwaltung und Infos zu Spielern.
+
+/playerInfo <Spieler>
+/playerSessions <Spieler>
+/onlineTime [Spieler]
+/jumpto <Spieler>
+/ping [Spieler]
+
+🔍 Filter-Befehle
+Verwaltung des Filtersystems.
+
+/filter list
+/filter add <Bereich> <Wert> [Operation]
+/filter remove <ID>
+
+📢 Broadcast-Befehle
+Verwaltung des Broadcast-Systems.
+
+/broadcast ...
+/broadcastGroup ...
+
+➕ Zusätzliche Befehle
+Weitere praktische Befehle von CloudBans.
+
+/joinme
+/chatClear [local/global]
+/teamChat <login/logout/toggle/message>
+/chatlog player <Spieler>
+/chatlog server <Server> <Spieler>
+/notify <login/logout/toggle>
+/punishNotify <login/logout/toggle>
+/help
