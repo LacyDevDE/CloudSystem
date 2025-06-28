@@ -1,0 +1,53 @@
+🌐 Plattform & Umgebung
+Läuft auf BungeeCord
+MariaDB & MongoDB Integration
+Voll konfigurier- & anpassbar
+Live-Update über Netzwerk
+Hochleistungs-Architektur mit Caching
+
+⛔ Bestrafungen
+Ban, Mute, Kick & Warn
+Strafen pro Welt, Server & Servergruppe
+Alt-Account-Erkennung
+IP-Adress-Sperrung
+Vorgefertigte Strafvorlagen
+Dauer basierend auf Spielerhistorie
+Punktesystem für Banns
+
+📜 Spielerhistorie
+Änderungs-Logging
+Kommentar- & Notizsystem
+Verschiedene Kommentararten
+Benachrichtigungen
+
+👥 Spielerverwaltung
+Login-Sessions
+Kommentare & Notizen
+Utility-Befehle (z.B. /jumpto, /onlineTime)
+ReportSystem mit Annahme & Ablehnung
+Login/Logout-Benachrichtigungen
+
+💬 Chat-System
+Chatfilter
+Automatische Strafen
+Matching-Algorithmen (contains, startsWith etc.)
+
+Chat-Logging
+
+📢 Broadcast-System
+Netzwerkweite Broadcasts
+Chat, Title, Actionbar & Bossbar
+Broadcast-Vorlagen
+Automatisches Senden
+Gruppenbasierte Broadcasts
+
+🔗 Drittanbieter-Integration
+PlaceholderAPI
+
+⚙️ Zusätzliche Features
+Vollständige UUID-Unterstützung
+Team-Chat
+Weitere Befehle (z.B. /ping, /joinme)
+Migrationsfunktionen
+Tab-Vervollständigung
+Umfangreiche Entwickler-API
