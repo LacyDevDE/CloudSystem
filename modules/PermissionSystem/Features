@@ -1,0 +1,38 @@
+🚀 CloudPerms Features Übersicht
+🌐 Platform & Environment
+Läuft auf Spigot und BungeeCord
+
+Unterstützte Datenbanken:
+
+MariaDB
+MongoDB
+
+Komplett konfigurier- und anpassbar
+Live-Updates über Netzwerk
+
+🔐 Permissions (Berechtigungen)
+Temporäre und negative Berechtigungen
+Berechtigungen pro Server
+Berechtigungen pro Servergruppe
+
+👥 Groups (Gruppen)
+Temporäre und negative Gruppen
+Standard-Gruppen
+Vererbung von Gruppen
+Benutzerdefinierte Gruppentypen
+Prioritäten zur Sortierung und Beförderung
+
+🔌 Third Party Integrations
+Integration in Tablist & Chat mit Live-Updates
+Placeholders für PlaceholderAPI
+
+✨ Additional Features
+Vereinfachter /rank-Befehl für Gruppenvergabe
+/team-Befehl zur Anzeige deiner Teammitglieder
+Vollständige UUID-Unterstützung
+Tab Completion bei allen Befehlen
+Baumstruktur für Berechtigungen und Gruppen
+Änderungsprotokollierung
+Migrationsfunktionen
+Umfangreiche Entwickler-API
+Server-Join-Berechtigungen mit Priorität und Kick-Mechanismus
