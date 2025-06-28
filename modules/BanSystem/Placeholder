@@ -1,0 +1,25 @@
+🔧 CloudBans Placeholders
+Hinweis:
+
+Spielerbezogene Platzhalter
+Placeholder	Beschreibung	Beispiel/Format
+%cloudbans_player_name%	Spielername	„Nezzonix“
+%cloudbans_player_uniqueId%	Eindeutige Spieler-ID (UUID)	„550e8400-e29b-41d4-a716-446655440000“
+%cloudbans_player_online-time-long%	Onlinezeit in langer Schreibweise	„10 days 5 hours 4 minutes“
+%cloudbans_player_online-time-short%	Onlinezeit in kurzer Schreibweise	„10d 5h 4m“
+%cloudbans_player_online-time-h%	Onlinezeit in Stunden (gerundet)	„245“
+%cloudbans_player_online-time-d%	Onlinezeit in Tagen (gerundet)	„10“
+%cloudbans_player_country%	Land des Spielers	„Germany“
+%cloudbans_player_ip%	IP-Adresse des Spielers	„123.456.789.0“
+%cloudbans_player_region%	Region des Spielers (z. B. Stadt/Bundesland)	„Berlin“
+%cloudbans_player_version%	Minecraft-Version des Spielers	„1.16.4“
+
+Statusbezogene Platzhalter
+Placeholder	Beschreibung
+%cloudbans_player_teamChatLogin%	Zeigt, ob Spieler im Team-Chat eingeloggt ist (true/false)
+%cloudbans_player_notifyLogin%	Zeigt, ob Spieler Bestrafungs-Benachrichtigungen erhält (true/false)
+%cloudbans_player_reportLogin%	Zeigt, ob Spieler Bericht-Benachrichtigungen erhält (true/false)
+
+Allgemeine Platzhalter
+Placeholder	Beschreibung
+%cloudbans_openReports%	Anzahl der offenen Reports
