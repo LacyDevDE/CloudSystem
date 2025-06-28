@@ -1,0 +1,45 @@
+🛠️ CloudPerms Befehle Übersicht
+⚙️ Allgemeine Befehle
+Verwaltung von CloudPerms auf deinem Netzwerk oder Server:
+
+/perms
+/perms info
+/perms groups
+/perms group <group>
+/perms user <user>
+
+👤 Benutzerbefehle
+Verwalte Rechte, Gruppen & Meta-Daten von Spielern:
+
+/perms user <player> info — Spielerinformationen anzeigen
+/perms user <player> set <permission> — Berechtigung hinzufügen
+/perms user <player> unset <permission> — Berechtigung entfernen
+/perms user <player> clear — Alle Berechtigungen löschen
+/perms user <player> list — Berechtigungen auflisten
+/perms user <player> check <permission> — Berechtigung prüfen
+
+👥 Gruppenbefehle
+Gruppen verwalten (<group> = Gruppenname):
+
+/perms group <group> info — Gruppeninfos anzeigen
+/perms group <group> create — Neue Gruppe erstellen
+/perms group <group> delete — Gruppe löschen
+/perms group <group> rename <newname> — Gruppe umbenennen
+/perms group <group> copy <newname> — Gruppe kopieren
+/perms group <group> members — Mitglieder anzeigen
+/perms group <group> permission — Gruppenrechte verwalten
+/perms group <group> meta — Meta-Daten bearbeiten
+/perms group <group> group — Gruppenhierarchie verwalten
+/perms group <group> setPriority <priority> — Priorität setzen
+
+⭐ Rang-Befehle
+Einfaches Management von Spieler-Rängen (ideal für Staff):
+
+/rank — Übersicht
+/rank <player> list — Ränge eines Spielers anzeigen
+/rank <player> promote [track] — Spieler befördern
+/rank <player> demote [track] — Spieler degradieren
+
+🔧 Zusätzliche Befehle
+Nützliche Extras:
+/team — Zeigt alle Teammitglieder mit Priorität & Farbe
