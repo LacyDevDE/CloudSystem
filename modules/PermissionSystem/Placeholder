@@ -1,0 +1,18 @@
+🔧 CloudBans Placeholders
+Hinweis:
+Spielerbezogene Platzhalter
+Placeholder	Beschreibung
+%cloudbans_name%	Spielername
+%cloudbans_uniqueId%	Eindeutige Spieler-ID (UUID)
+%cloudbans_id%	Interne, eindeutige Objekt-ID von cloudbans
+%cloudbans_rank%	Höchster Rang des Spielers (nach Priorität)
+%cloudbans_ranks%	Alle zugewiesenen Ränge, kommasepariert 
+
+Design & Darstellung
+Placeholder	Beschreibung
+%cloudbans_color%	Farbe des Spielers 
+%cloudbans_prefix%	Präfix des Spielers
+%cloudbans_suffix%	Suffix des Spielers 
+%cloudbans_display%	Anzeige (Chat-Präfix) des Spielers
+%cloudbans_priority%	Priorität des Spielers (höchste Gruppe)
+%cloudbans_team%	true wenn Spieler in einer Team-Gruppe ist, sonst false
