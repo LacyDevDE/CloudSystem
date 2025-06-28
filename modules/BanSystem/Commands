@@ -1,5 +1,5 @@
 🎮 Allgemeine Befehle
-Diese Befehle dienen zur Verwaltung von DKBans auf deinem Netzwerk oder Server.
+Diese Befehle dienen zur Verwaltung von CloudBans auf deinem Netzwerk oder Server.
 
 /cloudbans
 /cloudbans info
@@ -77,3 +77,15 @@ Weitere praktische Befehle von CloudBans.
 /notify <login/logout/toggle>
 /punishNotify <login/logout/toggle>
 /help
+
+📢 Broadcast-Befehle (DKBans)
+Wichtig:
+
+/broadcast <Name> create
+/broadcast <Name> delete
+/broadcast <Name> edit
+/broadcast <Name> direct
+
+
+
+
